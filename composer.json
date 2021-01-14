@@ -15,7 +15,7 @@
     ],
     "require": {
         "drupal/honeypot": "^2.0",
-        "pantheon-upstreams/upstream-configuration": "*"
+        "internal/upstream-configuration": "*"
     },
     "conflict": {
             "drupal/drupal": "*"
