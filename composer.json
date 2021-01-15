@@ -15,6 +15,7 @@
     ],
     "require": {
         "drupal/honeypot": "^2.0",
+        "drupal/metatag": "^1.12",
         "internal/upstream-configuration": "*"
     },
     "conflict": {
